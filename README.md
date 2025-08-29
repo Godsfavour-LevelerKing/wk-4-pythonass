@@ -1,0 +1,5 @@
+# File Handling and Exception Handling Assignment
+
+- Create your own GitHub repository and submit it
+- File Read & Write Challenge í¶‹ï¸: Create a program that reads a file and writes a modified version to a new file.
+- Error Handling Lab í·ª: Ask the user for a filename and handle errors if it doesnâ€™t exist or canâ€™t be read.
